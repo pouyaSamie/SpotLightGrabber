@@ -12,7 +12,7 @@ This project is a windows Service that you can config to copy all the lock scree
 4- run this command sc install SpotlightImages.exe
 
 
-### config 
+### Config 
 in config file you can config some behaviours 
 
 
