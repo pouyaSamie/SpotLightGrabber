@@ -11,7 +11,13 @@ This project is a windows Service that you can config to copy all the lock scree
 
 4- open windows services ( Control panel\Administrative Tools\Services) 
 
-5- find SpotlightGrabber and right click on it and click start
+5- find SpotlightGrabber and double Click on the service
+
+6- Go to Log on tab 
+
+7- select this account and enter yout account name and password
+
+8 - restart the service
 
 that's it.
 
