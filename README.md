@@ -9,7 +9,7 @@ This project is a windows Service that you can config to copy all the lock scree
 
 3- open cmd as Admin and run this command : sc.exe create SpotlightGrabber binPath= "path that you have copied the file\SpotlightImages.exe"
 
-4- run this command sc install SpotlightImages.exe
+4- Done!
 
 
 ### Config 
