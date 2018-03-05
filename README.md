@@ -1,4 +1,4 @@
-# Windows 10 SpotLight Grabber
+# Windows 10 SpotLight Image Grabber
 This project is a windows Service that you can config to copy all the lock screen images of windows 10 to custom path 
 
 ### Usage
